@@ -1,7 +1,7 @@
 
 # Como enviar logs para o Logtail com winston
 
-Exemplos de como enviar logs personalizados com Winston para o Logtail e exemplo de criação de arquivos locais dos logs.
+Exemplos de como enviar logs personalizados com Winston para o Logtail e criação de arquivos locais dos logs personalizados com o winston.
 
 
 
